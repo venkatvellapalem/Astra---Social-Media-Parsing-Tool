@@ -1,0 +1,6 @@
+#accurate versions of all the modules
+selenium==4.23.1
+instaloader==4.13
+pyautogui==0.9.54
+reportlab==4.2.2
+ghunt==2.2.0
